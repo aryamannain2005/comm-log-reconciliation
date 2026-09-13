@@ -1,5 +1,9 @@
 # Comm-Log Reconciliation — Data Dictionary
 
+> **Submission Links**:
+> - Reconciliation Bridge & Analysis: [SUBMISSION.md](SUBMISSION.md)
+> - Runnable SQL Queries: [queries.sql](queries.sql)
+
 This is the raw data for the take-home in `ASSIGNMENT.md`. Everything you need is either
 in the schema below or discoverable by querying the data itself.
 
